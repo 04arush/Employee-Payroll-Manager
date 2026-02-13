@@ -186,7 +186,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Support
 
 For questions or issues, please open an issue on GitHub.
-
----
-
-Built with ❤️ using Foundry and Chainlink
